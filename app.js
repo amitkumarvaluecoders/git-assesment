@@ -3,7 +3,7 @@
  */
 function printLine()
 {
-    return `Speak of the devil again!`;
+    return `Speak of the devil again again!`;
 }
 
 /**
