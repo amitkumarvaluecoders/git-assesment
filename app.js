@@ -1,16 +1,16 @@
 /**
  * A Print function
  */
-function printJumboTronLine()
+function printLine()
 {
-    return `Speak of the devil, and Devil is here !`;
+    return `Speak of the devil again!`;
 }
 
 /**
  * A Heading  function
  * @returns {string}
  */
-function addJumboTron()
+function addHeading()
 {
-    return `Don't put all your eggs in one basket. Don't count your chickens before the eggs have hatched`;
+    return `Don't count your chickens before the eggs have hatched`;
 }
